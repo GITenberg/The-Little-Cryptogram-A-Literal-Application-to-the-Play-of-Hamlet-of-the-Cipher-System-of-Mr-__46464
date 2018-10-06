@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "The Little Cryptogram\r\nA Literal Application to the Play of Hamlet of the\
   \ Cipher\r\nSystem of Mr. Ignatius Donnelly."
 url: http://www.gutenberg.org/ebooks/46464
